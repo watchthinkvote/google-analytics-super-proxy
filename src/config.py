@@ -33,7 +33,7 @@ __author__ = 'pete.frisella@gmail.com (Pete Frisella)'
 
 # OAuth 2.0 Client Settings
 AUTH_CONFIG = {
-    'OAUTH_CLIENT_ID': 'REPLACE THIS WITH YOUR CLIENT ID',
+    '117124653965-pc214o5ob0rrd1nv0u9699u3rp3epg92.apps.googleusercontent.com': 'REPLACE THIS WITH YOUR CLIENT ID',
     'OAUTH_CLIENT_SECRET': 'REPLACE THIS WITH YOUR CLIENT SECRET',
 
     # E.g. Local Dev Env on port 8080: http://localhost:8080
