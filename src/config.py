@@ -33,8 +33,8 @@ __author__ = 'pete.frisella@gmail.com (Pete Frisella)'
 
 # OAuth 2.0 Client Settings
 AUTH_CONFIG = {
-    '117124653965-pc214o5ob0rrd1nv0u9699u3rp3epg92.apps.googleusercontent.com': 'REPLACE THIS WITH YOUR CLIENT ID',
-    'x13ar30o8IFKH1AP1Omd6jWX': 'REPLACE THIS WITH YOUR CLIENT SECRET',
+    'OAUTH_CLIENT_ID': '117124653965-pc214o5ob0rrd1nv0u9699u3rp3epg92.apps.googleusercontent.com',
+    'OAUTH_CLIENT_SECRET': 'x13ar30o8IFKH1AP1Omd6jWX',
 
     # E.g. Local Dev Env on port 8080: http://localhost:8080
     # E.g. Hosted on App Engine: https://your-application-id.appspot.com
